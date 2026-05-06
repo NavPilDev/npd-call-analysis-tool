@@ -1,5 +1,4 @@
 # EMS Call Analysis Tool
-## GroupG_CS4273Capstone
 
 ---
 
@@ -321,17 +320,6 @@ $env:PYTHONPATH="."
 
 ### Privacy
 - Treat all 911 data as sensitive. Redact as needed. Use local inference only.
-
----
-
-## Team Contributions
-
-| Name            | Role                 | Contact                     |
-| --------------- | -------------------- | --------------------------- |
-| Camden Laskie   | Product Owner / UI   | camdenlaskie@ou.edu         |
-| Kevin Nguyen    | SM1 / Rule Grader + Tests | kevin.nguyen@ou.edu    |
-| Jaiden Sizemore | SM2 / Parser + AI    | jaiden.m.sizemore-1@ou.edu  |
-| Natalie Roman   | SM3 / Docs + Protocols/CSV + AI selection | casandra.n.roman-1@ou.edu |
 
 ---
 
